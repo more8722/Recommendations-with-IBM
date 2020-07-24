@@ -1,2 +1,3 @@
-# Recommendations-with-IBM
-For this project you will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. 
+# Recommendations-with-IBM  
+#Project Overview     
+This project analyzes the interactions that users have with articles on the IBM Watson Studio platform and makes recommendations to them about new articles.
