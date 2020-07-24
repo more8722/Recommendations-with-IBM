@@ -15,5 +15,5 @@ This project analyzes the interactions that users have with articles on the IBM 
 - Pickle    
 # File descriptions
 - Recommendations_with_IBM.html -copy of Recommendations_with_IBM.ipynb in html format
-- Recommendations_with_IBM.ipynb -contain all analysis process yeay
+- Recommendations_with_IBM.ipynb -contain all analysis process 
 
